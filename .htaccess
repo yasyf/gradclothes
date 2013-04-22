@@ -1,0 +1,4 @@
+AddHandler application/x-httpd-php53 .php
+RewriteEngine On
+Redirect 301 deletion.php http://gradclothes.yasyf.com/manage.php
+Redirect 301 songs.php http://gradclothes.yasyf.com/vote.php
